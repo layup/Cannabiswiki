@@ -1,0 +1,24 @@
+$default-color: #89B97E;
+
+html body{
+    
+    height: 100%;
+}
+
+#page-header{
+    
+}
+.min-100{
+    min-height: 100%;
+}
+
+.bt-cannabis{
+    color: $default-color;
+}
+.bg-cannabis{
+    background-color: $default-color;
+    color:white;
+}
+.bg-cannabis:hover{
+    background-color: #678237;
+}
